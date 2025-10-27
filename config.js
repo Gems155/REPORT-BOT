@@ -1,5 +1,5 @@
 module.exports = {
-  token: "MTIyNzY0MzY1NjMzNzQ4OTkzMA.G1n38p.4zNIgCyLSq3LWbHydT1_JXl1mrHdSzW73MX9ik",
+  token: "token",
   applyChannel: "1227318058578743419",
   finishChannel: "1227634040388194326",
   waitingrole: "1227634989571506358",
